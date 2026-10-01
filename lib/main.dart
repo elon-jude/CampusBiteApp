@@ -1,4 +1,4 @@
-//Jude Yankson - 2425400769 - Group 1
+//Jude Yankson - Group 1
 import 'package:flutter/material.dart';
 
 void main() {
